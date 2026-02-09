@@ -118427,7 +118427,7 @@ return A.q($async$Di,r)},
 M(a){var s=null,r=$.c().d
 r===$&&A.a()
 r=r.a
-return A.ha(s,B.o,new A.ep(B.bn,s,B.aeG,B.r,A.b([A.b89("assets/SplashScreen.png",B.bH,r.b,r.a)],t.p),s),s,s,s)}}
+return A.ha(s,B.o,new A.ep(B.bn,s,B.aeG,B.r,A.b([A.b89("assets/Logo.png",B.bH,r.b,r.a)],t.p),s),s,s,s)}}
 A.aVr.prototype={
 $1(a){return B.Fq},
 $S:172}
