@@ -117095,7 +117095,7 @@ $S:32}
 A.aQm.prototype={
 $0(){var s=0,r=A.r(t.H),q=this,p
 var $async$$0=A.n(function(a,b){if(a===1)return A.o(b,r)
-while(true)switch(s){case 0:p=A.cQ("https://wa.me/9647736578905?text=\u0646\u0633\u064a\u062a \u0643\u0644\u0645\u0629 \u0627\u0644\u0633\u0631 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u064a \u0641\u064a \u062a\u0637\u0628\u064a\u0642 \u0645\u0646\u062a\u062c\u0627\u062a\u064a",0,null)
+while(true)switch(s){case 0:p=A.cQ("https://wa.me/9647766003324?text=\u0646\u0633\u064a\u062a \u0643\u0644\u0645\u0629 \u0627\u0644\u0633\u0631 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u064a \u0641\u064a \u062a\u0637\u0628\u064a\u0642 \u0645\u0646\u062a\u062c\u0627\u062a\u064a",0,null)
 s=5
 return A.l(A.b_3(p),$async$$0)
 case 5:s=b?2:4
