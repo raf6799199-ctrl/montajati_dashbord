@@ -59376,7 +59376,7 @@ N(a){var s,r,q,p,o=null,n=A.ch(a,!1,t.nj),m=A.ch(a,!0,t.N7),l=$.c()
 l=16*Math.min(l.gH(),l.gB())
 s=$.c()
 r=t.p
-r=A.b([new A.Vo(new A.T(l,l,l,l),A.aP(A.b([A.DK(o,new A.xn("assets/Logo.png",o,o),o,40*Math.min(s.gH(),s.gB()))],r),B.k,B.l,B.j),o)],r)
+r=A.b([new A.Vo(new A.T(l,l,l,l),A.aP(A.b([A.DK(o,new A.xn("assets/logo.png",o,o),o,40*Math.min(s.gH(),s.gB()))],r),B.k,B.l,B.j),o)],r)
 s=m.ga5G()
 s=new A.ly(s,A.a7(s).i("ly<1>"))
 B.b.Y(r,s.gi_(s).ef(0,new A.aEu(this,m,a),t.hT).fc(0))
@@ -59442,7 +59442,7 @@ return A.q($async$DL,r)},
 N(a){var s=null,r=$.c().d
 r===$&&A.a()
 r=r.a
-return A.hg(s,B.o,new A.ei(B.bg,s,B.afC,B.r,A.b([A.b9V("assets/SplashScreen.png",B.bK,r.b,r.a)],t.p),s),s,s,s)}}
+return A.hg(s,B.o,new A.ei(B.bg,s,B.afC,B.r,A.b([A.b9V("assets/splash.png",B.bK,r.b,r.a)],t.p),s),s,s,s)}}
 A.aX2.prototype={
 $1(a){return B.FS},
 $S:174}
